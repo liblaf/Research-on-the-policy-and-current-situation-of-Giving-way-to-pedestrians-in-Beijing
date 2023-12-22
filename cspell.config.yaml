@@ -1,0 +1,15 @@
+words:
+  - gomod
+  - liblaf
+ignorePaths:
+  - "*-lock.*"
+  - "*.lock"
+  - cspell.config.yaml
+dictionaries:
+  - bash
+  - cpp
+  - cpp-refined
+  - dotnet
+  - makefile
+  - npm
+allowCompoundWords: true
